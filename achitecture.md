@@ -59,8 +59,7 @@
 ## 📁 Related Files
 
 - [`AzothSolver-Whitepaper.md`](../assets/documents/AzothSolver-Whitepaper.md)
-- [`benchmarking/`](../benchmarking/)
-- [`cow-protocol/`](../cow-protocol/)
+
 
 ---
 
