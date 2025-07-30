@@ -2,5 +2,6 @@
 
 ## Component
 
+- documentation
 - website
 - solver
